@@ -14,9 +14,9 @@ The analysis includes:
 
 ## Project Files
 
-- Insurance_Operations_Dashboard.xlsm – Excel dashboard with VBA automation
+- Project4-vba.xlsm – Excel dashboard with VBA automation
 - insurance_dashboard.csv – Processed dashboard dataset
-- sql/ – SQL scripts used for data preparation and reporting
+- sql – SQL scripts used for data preparation and reporting
 
 ## References
 
